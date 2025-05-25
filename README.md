@@ -9,27 +9,33 @@ Key steps included:
 3.Visualizing sales distributions across categories, sub-categories, segments, and states.
 
 4.Creating a correlation matrix to analyze relationships between numerical features.
+
  Libraries Imported and Their Purpose:
-Pandas: Used for data manipulation and analysis. It helps in reading the dataset, cleaning the data, handling missing values, and performing aggregations.
 
-NumPy: Used for numerical operations and handling arrays efficiently, which supports calculations on the sales data.
+1.Pandas: Used for data manipulation and analysis. It helps in reading the dataset, cleaning the data, handling missing values, and performing aggregations.
 
-Matplotlib: A visualization library used to create static plots such as bar charts, line graphs, and histograms to understand sales trends visually.
+2.NumPy: Used for numerical operations and handling arrays efficiently, which supports calculations on the sales data.
 
-Seaborn: Built on top of Matplotlib, Seaborn provides an easy way to generate more attractive and informative statistical graphics such as heatmaps and boxplots.
-Insights Extracted
-Sales Trends Over Time:
+3.Matplotlib: A visualization library used to create static plots such as bar charts, line graphs, and histograms to understand sales trends visually.
+
+4.Seaborn: Built on top of Matplotlib, Seaborn provides an easy way to generate more attractive and informative statistical graphics such as heatmaps and boxplots.
+
+Insights Extracted:
+
+1.Sales Trends Over Time:
 Monthly or quarterly sales trends showed an increase/decrease pattern, identifying peak sales seasons (e.g., higher sales during holiday months).
 
-Top Performing Products:
+2.Top Performing Products:
 Certain product categories consistently outperformed others, contributing a major share of total sales.
 
-Regional Performance:
+3.Regional Performance:
 Some regions/stores generated significantly more revenue, suggesting regional demand variations.
 
-Customer Segmentation:
+4.Customer Segmentation:
 Different customer segments showed distinct buying behaviors, which can help in targeted marketing.
 
-Correlation Analysis:
+5.Correlation Analysis:
 Identified correlations between quantity sold and sales amount, and potential impacts of seasonality or promotions.
+
+Conclusion:
 This project analyzed sales data to find patterns and trends using Pandas and Matplotlib. It revealed peak sales months, product-wise performance, and seasonal trends. These insights can help improve business decisions and future sales planning
