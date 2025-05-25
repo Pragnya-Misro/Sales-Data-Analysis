@@ -1,3 +1,5 @@
+SALES DATA ANALYSIS USING PYTHON(Superstore Dataset)
+
 This project focuses on analyzing a retail sales dataset to extract key business insights. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the dataset was explored to identify trends, correlations, and performance across different categories, segments, cities, and states.
 
 Key steps included:
