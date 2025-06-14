@@ -1,4 +1,4 @@
-SALES DATA ANALYSIS USING PYTHON(Superstore Dataset)
+**SALES DATA ANALYSIS USING PYTHON(Superstore Dataset**)
 
 This project focuses on analyzing a retail sales dataset to extract key business insights. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the dataset was explored to identify trends, correlations, and performance across different categories, segments, cities, and states.
 
@@ -22,7 +22,7 @@ Key steps included:
 
 4.Seaborn: Built on top of Matplotlib, Seaborn provides an easy way to generate more attractive and informative statistical graphics such as heatmaps and boxplots.
 
-Insights Extracted:
+**Insights Extracted:**
 
 1.Sales Trends Over Time:
 Monthly or quarterly sales trends showed an increase/decrease pattern, identifying peak sales seasons (e.g., higher sales during holiday months).
@@ -39,5 +39,5 @@ Different customer segments showed distinct buying behaviors, which can help in 
 5.Correlation Analysis:
 Identified correlations between quantity sold and sales amount, and potential impacts of seasonality or promotions.
 
-Conclusion:
+**Conclusion:**
 This project analyzed sales data to find patterns and trends using Pandas and Matplotlib. It revealed peak sales months, product-wise performance, and seasonal trends. These insights can help improve business decisions and future sales planning
